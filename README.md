@@ -1,0 +1,2 @@
+## Desafío 2
+Este es el segundo desafío del bootcamp DESAFÍO LATAM. Consistía en crear una landing page desde 0 de algún emprendimiento ficticio. Para ello, debíamos utilizar css, con selectores de clase y elementos y sus correspondientes declaraciones.
